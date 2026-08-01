@@ -26,7 +26,7 @@ This project designed a 2D involute gear profile and investigated how changes in
 ## Documentation
 - 📄 [Technical Report (PDF)](report/Technical_Report.pdf)
 - 📊 [MATLAB Code](code/MATLAB_GearDesign.pdf)
-- 🎥 [Video Walkthrough](PASTE_YOUTUBE_LINK_HERE)
+- 🎥 [Video Walkthrough](https://drive.google.com/file/d/1C4bHKdfonE2HVsGdL0NTzIg92vmSuhS3/view?usp=sharing)
 
 ## Author
 Pratik Malu — [LinkedIn](https://www.linkedin.com/in/pratik-malu-969807190)
