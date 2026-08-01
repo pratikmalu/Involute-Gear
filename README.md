@@ -17,7 +17,7 @@ This project designed a 2D involute gear profile and investigated how changes in
 4. Documented findings in a technical report and video walkthrough.
 
 ## MATLAB Gear Profile
-![Involute Gear Plot](images/matlab_gear_plot.png)
+![Involute Gear Plot](images/MATLAB_2D_Gear.png)
 
 ## Results
 - Identified how tooth-height variation affects stress concentration and load distribution across the gear profile.
@@ -25,7 +25,7 @@ This project designed a 2D involute gear profile and investigated how changes in
 
 ## Documentation
 - 📄 [Technical Report (PDF)](report/Technical_Report.pdf)
-- 📊 [Presentation Slides (PPTX)](presentation/Gear_Analysis_Presentation.pptx)
+- 📊 [MATLAB Code](code/MATLAB_GearDesign.pdf)
 - 🎥 [Video Walkthrough](PASTE_YOUTUBE_LINK_HERE)
 
 ## Author
